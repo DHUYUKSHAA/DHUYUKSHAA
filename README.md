@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4facfe&height=220&section=header&text=Dhuyukshaa%20Arunkumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">✨ <b>DHUYUKSHAA ARUNKUMAR</b> ✨</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🚀 Java Backend Enthusiast</h3>
+<h3 align="center">💻 Aspiring Software Developer</h3>
 
 ---
 
